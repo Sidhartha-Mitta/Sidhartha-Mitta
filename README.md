@@ -1,7 +1,7 @@
 <!-- Profile README for GitHub -->
 
 <h1 align="center">Hey 👋, I'm Sidhartha Mitta</h1>
-<h3 align="center">🚀 CSE Student | 💡 AI & ML Enthusiast | 🌐 MERN + TypeScript Developer</h3>
+<h3 align="center">🚀 CSE Student | 💡 AI & ML Enthusiast | 🌐 MERN Stack Developer</h3>
 
 ---
 
