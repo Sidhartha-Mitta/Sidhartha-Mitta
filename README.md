@@ -16,7 +16,7 @@
 
 ### 🧑‍💻 About Me
 - 🎓 Final Year CSE @ **RGUKT Basar**  
-- 💻 Passionate about **Artificial Intelligence, MERN Stack, TypeScript, and Computer Vision**  
+- 💻 Passionate about **Artificial Intelligence, MERN Stack, and Computer Vision**  
 - 🚀 Exploring **Hackathons, Open Source, and Startups**  
 - ✨ Love building **real-life problem-solving projects**  
 
